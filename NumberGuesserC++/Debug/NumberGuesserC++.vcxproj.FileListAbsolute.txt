@@ -1,0 +1,2 @@
+C:\Users\purdi\Repos\C++ Projects\NumberGuesserC++\Debug\NumberGuesserC++.exe
+C:\Users\purdi\Repos\C++ Projects\NumberGuesserC++\Debug\NumberGuesserC++.pdb
