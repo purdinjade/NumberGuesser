@@ -1,4 +1,4 @@
 ﻿  NumberGuesserC++.cpp
-C:\Users\purdi\Repos\C++ Projects\NumberGuesserC++\NumberGuesserC++.cpp(33,20): warning C4553: '==': result of expression not used; did you intend '='?
-C:\Users\purdi\Repos\C++ Projects\NumberGuesserC++\NumberGuesserC++.cpp(46,9): warning C4101: 'numbers': unreferenced local variable
+C:\Users\purdi\Repos\C++ Projects\NumberGuesserC++\NumberGuesserC++.cpp(34,20): warning C4553: '==': result of expression not used; did you intend '='?
+C:\Users\purdi\Repos\C++ Projects\NumberGuesserC++\NumberGuesserC++.cpp(68,23): warning C4553: '==': result of expression not used; did you intend '='?
   NumberGuesserC++.vcxproj -> C:\Users\purdi\Repos\C++ Projects\NumberGuesserC++\Debug\NumberGuesserC++.exe
